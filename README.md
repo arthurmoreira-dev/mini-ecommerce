@@ -16,7 +16,7 @@
 > **Substitua as seções abaixo com seus próprios prints após rodar o projeto.**
 
 ### Cards renderizados
-![Cards](prints/pagina-principal.pngg)
+![Cards](prints/pagina-principal.png)
 
 ### Área de detalhes preenchida
 ![Detalhes](prints/print-detalhes.png)
